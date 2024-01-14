@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHfaXdbdFw7CPQEV4hLE5SpkfYTWZe1iBZcVF/L2kZNWGGe8gpCxfSeNj5bICksn0cQS2H2QbuvIKmB+qHWpiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Excalibur PC\\source\\repos\\SemihDonmezProje\\SemihDonmezProje\\SemihDonmezProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Excalibur PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

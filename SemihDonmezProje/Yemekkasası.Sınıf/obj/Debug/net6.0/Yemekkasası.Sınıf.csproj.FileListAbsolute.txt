@@ -1,0 +1,11 @@
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\bin\Debug\net6.0\Yemekkasası.Sınıf.deps.json
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\bin\Debug\net6.0\Yemekkasası.Sınıf.dll
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\bin\Debug\net6.0\Yemekkasası.Sınıf.pdb
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\Yemekkasası.Sınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\Yemekkasası.Sınıf.AssemblyInfoInputs.cache
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\Yemekkasası.Sınıf.AssemblyInfo.cs
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\Yemekkasası.Sınıf.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\Yemekkasası.Sınıf.dll
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\refint\Yemekkasası.Sınıf.dll
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\Yemekkasası.Sınıf.pdb
+C:\Users\Excalibur PC\source\repos\SemihDonmezProje\Yemekkasası.Sınıf\obj\Debug\net6.0\ref\Yemekkasası.Sınıf.dll
